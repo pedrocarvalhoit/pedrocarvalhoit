@@ -1,6 +1,6 @@
 # Bem vindo(a) 👋
 
-## Aprendendo com força total o desenvolvimento de algumas tecnologias, com foco em alcançar o título de Java Júnior.
+## Aprendendo com força total o desenvolvimento de algumas tecnologias, com foco em Java.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=pedroduartept&show_icons=true&theme=dark" />
 
