@@ -1,6 +1,6 @@
 # Bem vindo(a) 👋
 
-## Aprendendo com força total o desenvolvimento das tecnologias listadas, com foco em Java e Spring Boot.
+## Aprendendo com força total o desenvolvimento das tecnologias listadas, com foco em Java e Springboot.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=pedroduartept&show_icons=true&theme=dark" />
 
