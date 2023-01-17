@@ -20,9 +20,9 @@
 
 <img align="left" alt="INTELLIJ" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white" />
 
-<img alt="ECLIPSE" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
+<img align="left" alt="ECLIPSE" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
 
-<img alt="DOCKER" src="https://img.shields.io/badge/-Docker-2C2255?style=flat-square&logo=docker&logoColor=white" />
+<img align="left" alt="DOCKER" src="https://img.shields.io/badge/-Docker-2C2255?style=flat-square&logo=docker&logoColor=white" />
 
 
 
