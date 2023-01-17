@@ -4,7 +4,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedroduartept&show_icons=true&theme=dark" />
 
-<img align="left" width="47%" src="https://github-readme-stats-sigma-five.app/api/top-langs/?username=pedroduartept&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedroduartept&layout=compact" />
 
 <img align="left" alt="JAVA" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
 
