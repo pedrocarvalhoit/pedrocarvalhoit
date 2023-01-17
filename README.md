@@ -2,9 +2,9 @@
 
 ## Aprendendo com força total o desenvolvimento das tecnologias listadas, com foco em Java e Springboot.
 
-<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedroduartept&show_icons=true&theme=dark" />
+<img align="left" width="47%" alt="Panorama geral" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedroduartept&show_icons=true&theme=dark" />
 
-<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedroduartept&layout=compact" />
+<img align="left" width="47%" alt="Linguagens mais utilizadas" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedroduartept&layout=compact" />
 
 <img align="left" alt="JAVA" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
 
@@ -21,6 +21,8 @@
 <img align="left" alt="INTELLIJ" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white" />
 
 <img alt="ECLIPSE" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
+
+<img alt="DOCKER" src="https://img.shields.io/badge/-Docker-2C2255?style=flat-square&logo=docker&logoColor=white" />
 
 
 
