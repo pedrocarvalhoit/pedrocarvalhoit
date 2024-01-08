@@ -1,4 +1,4 @@
-# Bem vindo(a) 👋
+# Olá! 🦾
 
 ## Aprendendo com força total o desenvolvimento das tecnologias listadas, com foco em Java e Springboot.
 
