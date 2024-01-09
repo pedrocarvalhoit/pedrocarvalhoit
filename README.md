@@ -22,9 +22,9 @@ No GitHub, você encontrará projetos que refletem minha jornada de aprendizado 
 
 <img align="left" alt="SPRING" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
 
-<img align="left" alt="INTELLIJ" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" />
+<img align="left" alt="INTELLIJ" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" width="40" height="40" />
 
-<img align="left" alt="ECLIPSE" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
+<img align="left" alt="ECLIPSE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40" />
 
 <img align="left" alt="DOCKER" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" idth="40" />
 
