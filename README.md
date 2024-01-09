@@ -1,6 +1,6 @@
 # Olá! 🦾
 
-## Aprendendo com força total o desenvolvimento das tecnologias listadas, com foco em Java e Springboot.
+#Me chamo
 
 <img align="left" width="47%" alt="Panorama geral" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrocarvalhoit&show_icons=true&theme=dark" />
 
