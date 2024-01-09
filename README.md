@@ -4,8 +4,7 @@ Sou um entusiasta da tecnologia nascido no Brasil, mas morando em Portugal há 5
 
 Há 2 anos, decidi dar um novo rumo à minha carreira e mergulhei no fascinante mundo da tecnologia. Esta transição não foi apenas um desafio, mas uma oportunidade incrível para aplicar minha paixão por ajudar os outros em um contexto completamente novo. Acredito firmemente que a tecnologia, quando usada de maneira responsável e inovadora, pode ser uma poderosa ferramenta para melhorar vidas.
 
-No GitHub, você encontrará projetos que refletem minha jornada de aprendizado e crescimento no campo da tecnologia. Estou sempre aberto a colaborações, discussões e oportunidades de aprendizado. 
-##Vamos conectar!
+No GitHub, você encontrará projetos que refletem minha jornada de aprendizado e crescimento no campo da tecnologia. Estou sempre aberto a colaborações, discussões e oportunidades de aprendizado. Vamos conectar!
 
 <img align="left" width="47%" alt="Panorama geral" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrocarvalhoit&show_icons=true&theme=dark" />
 
