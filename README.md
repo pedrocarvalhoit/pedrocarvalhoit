@@ -10,9 +10,9 @@ No GitHub, você encontrará projetos que refletem minha jornada de aprendizado 
 
 <img align="left" width="47%" alt="Linguagens mais utilizadas" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrocarvalhoit&layout=compact" />
 
-<img align="left" alt="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 
-<img align="left" alt="JAVASCRIPT" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+<img align="left" alt="JAVASCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
 <img align="left" alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
 
@@ -26,7 +26,7 @@ No GitHub, você encontrará projetos que refletem minha jornada de aprendizado 
 
 <img align="left" alt="ECLIPSE" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
 
-<img align="left" alt="DOCKER" src="https://img.shields.io/badge/-Docker-1572B6?style=flat-square&logo=docker" />
+<img align="left" alt="DOCKER" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" idth="40" />
 
 
 
