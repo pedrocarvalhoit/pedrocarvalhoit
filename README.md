@@ -20,7 +20,7 @@ No GitHub, você encontrará projetos que refletem minha jornada de aprendizado 
 
 <img align="left" alt="MYSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
 
-<img align="left" alt="SPRING" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" width="40" height="40" />
+<img align="left" alt="SPRING" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
 
 <img align="left" alt="INTELLIJ" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" />
 
