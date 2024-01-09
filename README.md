@@ -10,7 +10,7 @@ No GitHub, você encontrará projetos que refletem minha jornada de aprendizado 
 
 <img align="left" width="47%" alt="Linguagens mais utilizadas" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrocarvalhoit&layout=compact" />
 
-<img align="left" alt="JAVA" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
+<img align="left" alt="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
 <img align="left" alt="JAVASCRIPT" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
 
