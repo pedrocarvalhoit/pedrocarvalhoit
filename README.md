@@ -1,6 +1,6 @@
 # Olá! 🦾
 
-Sou um entusiasta da tecnologia nascido no Brasil, mas morando em Portugal há 5 anos. Minha jornada profissional é bastante diversificada e enriquecedora. Passei 10 anos trabalhando em uma área totalmente diferente, onde meu principal objetivo era promover saúde e qualidade de vida para as pessoas. Essa experiência moldou profundamente minha visão de mundo e habilidades interpessoais, além de me ensinar a importância de fazer um impacto positivo na vida dos outros.
+Sou um entusiasta da tecnologia, nascido no Brasil e morando em Portugal há 5 anos. Minha jornada profissional é bastante diversificada e enriquecedora. Passei 10 anos trabalhando em uma área totalmente diferente, onde meu principal objetivo era promover saúde e qualidade de vida para as pessoas. Essa experiência moldou profundamente minha visão de mundo e habilidades interpessoais, além de me ensinar a importância de fazer um impacto positivo na vida dos outros.
 
 Há 2 anos, decidi dar um novo rumo à minha carreira e mergulhei no fascinante mundo da tecnologia. Esta transição não foi apenas um desafio, mas uma oportunidade incrível para aplicar minha paixão por ajudar os outros em um contexto completamente novo. Acredito firmemente que a tecnologia, quando usada de maneira responsável e inovadora, pode ser uma poderosa ferramenta para melhorar vidas.
 
